@@ -2,9 +2,9 @@ def using_while
   levitation_force = 6
 while levitation_force < 7
   levitation_force += 1
-  puts "The levitation force #"
-	
-  #your code here
+  puts "The levitation force #{levitation_force}."
 end
+
+  puts "The levitation force is #{levitation_force}."
 
 
