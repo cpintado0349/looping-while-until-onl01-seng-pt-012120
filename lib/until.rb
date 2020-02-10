@@ -7,5 +7,3 @@ until levitation_force == 10
   using_until
   end
 end
- 
- using_until
