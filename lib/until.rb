@@ -4,5 +4,4 @@ until levitation_force == 10
   puts "Wingardium Leviosa."
   levitation_force = levitation_force + 1
   using_until
-  end
 end
