@@ -5,6 +5,4 @@ while levitation_force < 7
   puts "The levitation force #{levitation_force}."
 end
 
-  puts "The levitation force is #{levitation_force}."
-
 
